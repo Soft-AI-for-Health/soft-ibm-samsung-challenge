@@ -83,6 +83,9 @@ message on the text box (mobile app)
 1. Flutter Dart  With
    Flutter Tizen
    
+![Capture](https://user-images.githubusercontent.com/51744364/142753452-8e35dd78-6845-4505-b3e0-f68190264bf6.PNG)
+The flutter tizen sdk has the capability to run tizen devices
+   
 ## Authors
 - Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://www.linkedin.com/in/tlotlopkgotlafela/)
 - Pako Daniel Moatshe; Project Management [*See Linkedin*](https://www.linkedin.com/in/pako-moatshe-94b93216a/)
