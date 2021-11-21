@@ -60,6 +60,8 @@ The application will run on Samsung devices. The application was tested on Samsu
 ![SCREEN1](https://user-images.githubusercontent.com/51744364/142754186-6a997d96-05c0-42c7-9d81-3652c26195e8.PNG)
 ![SCREEN3](https://user-images.githubusercontent.com/51744364/142754188-f2af6466-aaf0-4351-8723-6d181b12d011.PNG)
 
+Download and run the apk on our device.
+[click to download](https://drive.google.com/drive/folders/1noe91R6sx4dHG14z2nGAPqRZ0BNVj57F?usp=sharing)
 ## Demo Video
 
 ## How it Works
