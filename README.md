@@ -58,6 +58,8 @@ Suggesting the user activities after they record/ and the speech is converted to
 ## Demo Video
 
 ## How it Works
+![soft architect](https://user-images.githubusercontent.com/51744364/142750392-441c593c-365a-44a0-b4a8-2b00699ec5b1.png)
+
 
 The Application flow and architecture is as follows:
 1. The user opens the application and record what they want to say
