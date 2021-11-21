@@ -54,6 +54,7 @@ develop useful skills like:
 
 ### Innovation
 Suggesting the user activities after they record/ and the speech is converted to text using Watson studio.
+The application will run on Samsung devices. The application was tested on Samsung Galaxy S21 Ultra
 
 ## Demo Video
 
