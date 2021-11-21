@@ -29,7 +29,7 @@ corrective decision/actions
 - Mental self-improvement – This focuses of elements such as positive affirmations,
 breathing techniques, meditation techniques and audio relaxation.
 
--Cognitive Behavioural Therapy – AI based feature that allows the user to have an
+- Cognitive Behavioural Therapy – AI based feature that allows the user to have an
 interaction with AI based ‘therapist’ to help user undergo cognitive behavioural therapy.
 
 Cognitive behavioural therapy (CBT) is a form of psychological treatment that has been
