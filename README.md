@@ -56,6 +56,10 @@ develop useful skills like:
 Suggesting the user activities after they record/ and the speech is converted to text using Watson studio.
 The application will run on Samsung devices. The application was tested on Samsung Galaxy S21 Ultra
 
+![SCREEN2](https://user-images.githubusercontent.com/51744364/142754185-4564d8cf-8785-499a-93d9-7a4a91b4984a.PNG)
+![SCREEN1](https://user-images.githubusercontent.com/51744364/142754186-6a997d96-05c0-42c7-9d81-3652c26195e8.PNG)
+![SCREEN3](https://user-images.githubusercontent.com/51744364/142754188-f2af6466-aaf0-4351-8723-6d181b12d011.PNG)
+
 ## Demo Video
 
 ## How it Works
