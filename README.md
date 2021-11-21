@@ -84,7 +84,7 @@ message on the text box (mobile app)
    Flutter Tizen
    
 ![Capture](https://user-images.githubusercontent.com/51744364/142753452-8e35dd78-6845-4505-b3e0-f68190264bf6.PNG)
-The flutter tizen sdk has the capability to run tizen devices
+The flutter tizen sdk has been added to the flutter project, in future the application will have the capability to run on tizen devices(samsung watches and Samsung TVs)
    
 ## Authors
 - Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://www.linkedin.com/in/tlotlopkgotlafela/)
